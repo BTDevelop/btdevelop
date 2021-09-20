@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ### :octocat: Github Statistics
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=BTDevelop&show_icons=true&theme=radical" alt="developer-guy" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BTDevelop&layout=compact&hide=html&theme=radical" alt="developer-guy" width="480" height="180"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=BTDevelop&show_icons=true&theme=radical" alt="developer-guy" width="450" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BTDevelop&layout=compact&hide=html&theme=radical" alt="developer-guy" width="450" height="150"/>
 </p>
