@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" alt="apollo graphql" width="40" height="40"/> 
 <img src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4" alt="graphql" width="40" height="40"/> 
 <img src="https://avatars.githubusercontent.com/u/12959162?s=200&v=4" alt="snyk" width="40" height="40"/> 
+<img src="https://github.com/BTDevelop/ninja/blob/main/img/logo.png" alt="ninja" width="40" height="40"/> 
 </p>
 
 ### :octocat: Github Statistics
