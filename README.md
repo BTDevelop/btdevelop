@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/k6-logo-with-grafana.svg" alt="k6" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/dapr/dapr/master/img/dapr_logo.svg" alt="dapr" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4" alt="svelte" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/39844221?s=200&v=4" alt="svelte" width="40" height="40"/>
 </p>
 
 ### :octocat: Github Statistics
