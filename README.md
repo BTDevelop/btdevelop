@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <img src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" alt="apollo graphql" width="40" height="40" title="apollo graphql" /> 
 <img src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4" alt="graphql" width="40" height="40" title="graphql" /> 
 <img src="https://avatars.githubusercontent.com/u/12959162?s=200&v=4" alt="snyk" width="40" height="40" title="snyk" /> 
-<img src="https://github.com/BTDevelop/ninja/blob/main/img/logo.png" alt="ninja" width="40" height="40" title="ninja" />
+<img src="https://raw.githubusercontent.com/BTDevelop/ninja/main/img/logo.png" alt="ninja" width="40" height="40" title="ninja" />
 <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/k6-logo-with-grafana.svg" alt="k6" width="40" height="40" title="k6" />
 <img src="https://raw.githubusercontent.com/dapr/dapr/master/img/dapr_logo.svg" alt="dapr" width="40" height="40" title="dapr" />
 <img src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4" alt="svelte" width="40" height="40" title="svelte" />
