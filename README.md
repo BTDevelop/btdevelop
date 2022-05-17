@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <img src="https://cncf-branding.netlify.app/img/projects/longhorn/icon/color/longhorn-icon-color.png" alt="longhorn" width="40" height="40" title="longhorn"/>
 <img src="https://cncf-branding.netlify.app/img/projects/k3s/icon/color/k3s-icon-color.png" alt="k3s" width="40" height="40" title="k3s"/>
 <img src="https://cncf-branding.netlify.app/img/projects/envoy/icon/color/envoy-icon-color.svg" alt="envoy" width="40" height="40" title="envoy"/>
-<img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.svg" alt="k3s" width="40" height="40" title="k3s" />
+<img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.svg" alt="k3s" width="40" height="40" title="helm" />
 <img src="https://cncf-branding.netlify.app/img/projects/containerd/icon/white/containerd-icon-white.svg" alt="containerd" width="40" height="40" title="containerd" />
 <img src="https://cncf-branding.netlify.app/img/projects/jaeger/stacked/white/jaeger-stacked-white.svg" alt="jaeger" width="40" height="40" title="jaeger" />
 <img src="https://cncf-branding.netlify.app/img/projects/harbor/icon/color/harbor-icon-color.svg" alt="harbor" width="40" height="40" title="harbor" />
