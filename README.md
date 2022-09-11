@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/dapr/dapr/master/img/dapr_logo.svg" alt="dapr" width="40" height="40" title="dapr" />
 <img src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4" alt="svelte" width="40" height="40" title="svelte" />
 <img src="https://avatars.githubusercontent.com/u/39844221?s=200&v=4" alt="gremlin" width="40" height="40" title="gremlin"/>
+<img
+src="https://camo.githubusercontent.com/e31595f11b4de884b12a495de8539acaeaadfc03af70cd390742e11e52c12706/68747470733a2f2f73766e2e6170616368652e6f72672f7265706f732f6173662f636f6d6465762f70726f6a6563742d6c6f676f732f6f726967696e616c732f6170697369782e737667" alt="apisix" width="40" height="40" title="apisix"/>
 </p>
 
 ### :octocat: Github Statistics
