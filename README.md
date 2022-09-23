@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://cncf-branding.netlify.app/img/projects/envoy/icon/color/envoy-icon-color.svg" alt="envoy" width="40" height="40" title="envoy"/>
 <img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.svg" alt="k3s" width="40" height="40" title="helm" />
 <img src="https://cncf-branding.netlify.app/img/projects/containerd/icon/white/containerd-icon-white.svg" alt="containerd" width="40" height="40" title="containerd" />
-<img src="https://cncf-branding.netlify.app/img/projects/jaeger/stacked/white/jaeger-stacked-white.svg" alt="jaeger" width="40" height="40" title="jaeger" />
+<img src="https://cncf-branding.netlify.app/img/projects/jaeger/icon/color/jaeger-icon-color.svg" alt="jaeger" width="40" height="40" title="jaeger" />
 <img src="https://cncf-branding.netlify.app/img/projects/harbor/icon/color/harbor-icon-color.svg" alt="harbor" width="40" height="40" title="harbor" />
 <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg" alt="argo" width="40" height="40" title="argo" />
 <img src="https://cncf-branding.netlify.app/img/projects/cni/icon/color/cni-icon-color.svg" alt="cni" width="40" height="40" title="cni" />
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <img src="https://avatars.githubusercontent.com/u/39844221?s=200&v=4" alt="gremlin" width="40" height="40" title="gremlin"/>
 <img
 src="https://camo.githubusercontent.com/e31595f11b4de884b12a495de8539acaeaadfc03af70cd390742e11e52c12706/68747470733a2f2f73766e2e6170616368652e6f72672f7265706f732f6173662f636f6d6465762f70726f6a6563742d6c6f676f732f6f726967696e616c732f6170697369782e737667" alt="apisix" width="40" height="40" title="apisix"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM-KzsrXDMH5L8YS8Pr-7CZrO-qchz94J1dg&usqp=CAU" alt="camel-k" width="40" height="40" title="camel-k"
+<img src="https://camel.apache.org/_/img/logo-d-f21b25ba38.svg" alt="camel-k" width="40" height="40" title="camel-k"
 </p>
 
 ### :octocat: Github Statistics
