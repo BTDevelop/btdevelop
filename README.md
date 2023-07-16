@@ -27,25 +27,25 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" title="jenkins"/>
 <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" alt="kubernetes" width="40" height="40" title="kubernetes"/>
 <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40" title="linux"/>
-<img src="https://cncf-branding.netlify.app/img/projects/opa/icon/color/opa-icon-color.png" alt="opa" width="40" height="40" title="opa"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opa/icon/color/opa-icon-color.svg" alt="opa" width="40" height="40" title="opa"/>
 <img src="https://camo.githubusercontent.com/bd5b74426b7087fe4c8568458993dfff11001c3b9f0a2483e1da43650cbe0672/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f697374696f696f2f697374696f696f2d69636f6e2e737667" alt="istio" width="40" height="40" title="istio"/>
-<img src="https://cncf-branding.netlify.app/img/projects/linkerd/icon/color/linkerd-icon-color.png" alt="linkerd" width="40" height="40" title="linkerd"/>
-<img src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.png" alt="prometheus" width="40" height="40" title="prometheus"/>
-<img src="https://cncf-branding.netlify.app/img/projects/coredns/icon/color/coredns-icon-color.png" alt="coredns" width="40" height="40" title="coredns"/>
-<img src="https://cncf-branding.netlify.app/img/projects/longhorn/icon/color/longhorn-icon-color.png" alt="longhorn" width="40" height="40" title="longhorn"/>
-<img src="https://cncf-branding.netlify.app/img/projects/k3s/icon/color/k3s-icon-color.png" alt="k3s" width="40" height="40" title="k3s"/>
-<img src="https://cncf-branding.netlify.app/img/projects/envoy/icon/color/envoy-icon-color.svg" alt="envoy" width="40" height="40" title="envoy"/>
-<img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.svg" alt="k3s" width="40" height="40" title="helm" />
-<img src="https://cncf-branding.netlify.app/img/projects/containerd/icon/white/containerd-icon-white.svg" alt="containerd" width="40" height="40" title="containerd" />
-<img src="https://cncf-branding.netlify.app/img/projects/jaeger/icon/color/jaeger-icon-color.svg" alt="jaeger" width="40" height="40" title="jaeger" />
-<img src="https://cncf-branding.netlify.app/img/projects/harbor/icon/color/harbor-icon-color.svg" alt="harbor" width="40" height="40" title="harbor" />
-<img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg" alt="argo" width="40" height="40" title="argo" />
-<img src="https://cncf-branding.netlify.app/img/projects/cni/icon/color/cni-icon-color.svg" alt="cni" width="40" height="40" title="cni" />
-<img src="https://cncf-branding.netlify.app/img/projects/etcd/icon/color/etcd-icon-color.svg" alt="etcd" width="40" height="40" title="etcd" />
-<img src="https://cncf-branding.netlify.app/img/projects/grpc/stacked/color/grpc-stacked-color.svg" alt="grpc" width="40" height="40" title="grpc"/>
-<img src="https://cncf-branding.netlify.app/img/projects/operatorframework/icon/color/operatorframework-icon-color.svg" alt="operator framework" width="40" height="40" title="operator framework" />
-<img src="https://cncf-branding.netlify.app/img/projects/openservicemesh/icon/color/openservicemesh-icon-color.svg" alt="open service mesh" width="40" height="40" title="open service mesh"/>
-<img src="https://cncf-branding.netlify.app/img/projects/servicemeshinterface/icon/color/servicemeshinterface-icon-color.svg" alt="service mesh interface" width="40" height="40" title="service mesh interface" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/linkerd/icon/color/linkerd-icon-color.png" alt="linkerd" width="40" height="40" title="linkerd"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.png" alt="prometheus" width="40" height="40" title="prometheus"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/coredns/icon/color/coredns-icon-color.png" alt="coredns" width="40" height="40" title="coredns"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/longhorn/icon/color/longhorn-icon-color.png" alt="longhorn" width="40" height="40" title="longhorn"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/k3s/icon/color/k3s-icon-color.png" alt="k3s" width="40" height="40" title="k3s"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/envoy/icon/color/envoy-icon-color.svg" alt="envoy" width="40" height="40" title="envoy"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="k3s" width="40" height="40" title="helm" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/containerd/icon/white/containerd-icon-white.svg" alt="containerd" width="40" height="40" title="containerd" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/jaeger/icon/color/jaeger-icon-color.svg" alt="jaeger" width="40" height="40" title="jaeger" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/harbor/icon/color/harbor-icon-color.svg" alt="harbor" width="40" height="40" title="harbor" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.svg" alt="argo" width="40" height="40" title="argo" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/cni/icon/color/cni-icon-color.svg" alt="cni" width="40" height="40" title="cni" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/etcd/icon/color/etcd-icon-color.svg" alt="etcd" width="40" height="40" title="etcd" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/grpc/stacked/color/grpc-stacked-color.svg" alt="grpc" width="40" height="40" title="grpc"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/operatorframework/icon/color/operatorframework-icon-color.svg" alt="operator framework" width="40" height="40" title="operator framework" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/openservicemesh/icon/color/openservicemesh-icon-color.svg" alt="open service mesh" width="40" height="40" title="open service mesh"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/servicemeshinterface/icon/color/servicemeshinterface-icon-color.svg" alt="service mesh interface" width="40" height="40" title="service mesh interface" />
 <img src="https://avatars.githubusercontent.com/u/12304728?s=200&v=4" alt="project calico" width="40" height="40" title="project calico" />
 <img src="https://avatars.githubusercontent.com/u/14270641?s=200&v=4" alt="wso2" width="40" height="40" title="wso2" />
 <img src="https://avatars.githubusercontent.com/u/13742415?s=200&v=4" alt="serverless framework" width="40" height="40" title="serverless framework" /> 
