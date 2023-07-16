@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png" alt="python" width="40" height="40" title="python" />
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.png" alt="c#" width="40" height="40" title="c#" />
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" title="jenkins"/>
-<img src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.png" alt="kubernetes" width="40" height="40" title="kubernetes"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" alt="kubernetes" width="40" height="40" title="kubernetes"/>
 <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40" title="linux"/>
 <img src="https://cncf-branding.netlify.app/img/projects/opa/icon/color/opa-icon-color.png" alt="opa" width="40" height="40" title="opa"/>
 <img src="https://camo.githubusercontent.com/bd5b74426b7087fe4c8568458993dfff11001c3b9f0a2483e1da43650cbe0672/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f697374696f696f2f697374696f696f2d69636f6e2e737667" alt="istio" width="40" height="40" title="istio"/>
