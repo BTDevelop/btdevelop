@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40" title="linux"/>
 <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opa/icon/color/opa-icon-color.svg" alt="opa" width="40" height="40" title="opa"/>
 <img src="https://camo.githubusercontent.com/bd5b74426b7087fe4c8568458993dfff11001c3b9f0a2483e1da43650cbe0672/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f697374696f696f2f697374696f696f2d69636f6e2e737667" alt="istio" width="40" height="40" title="istio"/>
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/linkerd/icon/color/linkerd-icon-color.png" alt="linkerd" width="40" height="40" title="linkerd"/>
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.png" alt="prometheus" width="40" height="40" title="prometheus"/>
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/coredns/icon/color/coredns-icon-color.png" alt="coredns" width="40" height="40" title="coredns"/>
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/longhorn/icon/color/longhorn-icon-color.png" alt="longhorn" width="40" height="40" title="longhorn"/>
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/k3s/icon/color/k3s-icon-color.png" alt="k3s" width="40" height="40" title="k3s"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/linkerd/icon/color/linkerd-icon-color.svg" alt="linkerd" width="40" height="40" title="linkerd"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" alt="prometheus" width="40" height="40" title="prometheus"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/coredns/icon/color/coredns-icon-color.svg" alt="coredns" width="40" height="40" title="coredns"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/longhorn/icon/color/longhorn-icon-color.svg" alt="longhorn" width="40" height="40" title="longhorn"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/k3s/icon/color/k3s-icon-color.svg" alt="k3s" width="40" height="40" title="k3s"/>
 <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/envoy/icon/color/envoy-icon-color.svg" alt="envoy" width="40" height="40" title="envoy"/>
 <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="k3s" width="40" height="40" title="helm" />
 <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/containerd/icon/white/containerd-icon-white.svg" alt="containerd" width="40" height="40" title="containerd" />
